@@ -1,0 +1,25 @@
+Neural Network - MSE: 2.8218283423968726, R2 Score: 0.9452815443626843
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+
+Stacked Model - MSE: 1.8695127227687807, R2 Score: 0.9637480255452643
+
+Feature Importance from Base Models:
+Feature ACRES: 0.004597597286940367
+Feature POP_2010: 0.005737221238864687
+Feature POP_2000: 0.006357686092226156
+Feature Manure_P_kg_ha: 1.7425719334953236
+Feature P_Ag_Buffered: 0.01590246142585374
+Feature RNAT45: 0.008681399286607173
+Feature PDEV: 0.014591562715756352
+Feature PFOR: 0.044586587484701706
+Feature PWETL: 0.015890940436778026
+Feature Ag_P_Runoff: 0.06442138375765656
+Feature Ag_P_Erosion: 0.0607099289863251
+Feature Ag_Tile_SSF: 0.015347759504224429
+Feature PIUCN_IA: 0.00013758613006808972
+Feature PIUCN_IB: 0.0004657483299970362
+
+Linear Regression Coefficients (Final Estimator):
+Feature POP_2010: 0.6283172978434932
+Feature ACRES: 0.3958609683473842

@@ -1,0 +1,110 @@
+Training Random Forest...
+Training Linear Regression...
+Training Neural Network...
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+C:\Users\cbran\.conda\envs\GradMLProject\Lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Training XGBoost...
+
+Random Forest - MSE: 2.1365255226228124, R2 Score: 0.9585703441732648
+Best Params: {'max_depth': None, 'n_estimators': 200}
+Feature Importance (or Coefficients):
+Feature Manure_P_kg_ha: 0.9102637860961049
+Feature Ag_P_Runoff: 0.02623653391987674
+Feature PFOR: 0.020007512832872748
+Feature Ag_P_Erosion: 0.012455693724327222
+Feature P_Ag_Buffered: 0.006579806358086925
+Feature PWETL: 0.005880515071065452
+Feature RNAT45: 0.003984565333227617
+Feature POP_2010: 0.003270891617122387
+Feature PDEV: 0.0032147408495568188
+Feature ACRES: 0.0028641534775131422
+Feature POP_2000: 0.0026985616083995898
+Feature Ag_Tile_SSF: 0.002515349621225354
+Feature PIUCN_IB: 2.678073757779506e-05
+Feature PIUCN_IA: 1.1087530435425114e-06
+
+Linear Regression - MSE: 5.700734293960258, R2 Score: 0.8894562890741862
+Feature Importance (or Coefficients):
+Feature Manure_P_kg_ha: 0.8349882054992669
+Feature Ag_P_Runoff: 0.20017901133421678
+Feature Ag_P_Erosion: 0.1669852847730572
+Feature RNAT45: 0.039860582408009756
+Feature PIUCN_IA: 0.030906301238980697
+Feature P_Ag_Buffered: 0.02665457011005051
+Feature PFOR: 0.025843162510746885
+Feature PWETL: 0.01511453804114332
+Feature PDEV: 0.013429057164903627
+Feature PIUCN_IB: 0.008372810216768625
+Feature Ag_Tile_SSF: 0.005429129198495346
+Feature POP_2000: 3.882336588259888e-05
+Feature POP_2010: 1.904831147034295e-05
+Feature ACRES: 1.9417942282944714e-06
+
+Neural Network - MSE: 2.352366116450474, R2 Score: 0.954384949980201
+Best Params: {'activation': 'relu', 'alpha': 0.001, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01}
+
+XGBoost - MSE: 1.8972928415590453, R2 Score: 0.9632093374986578
+Best Params: {'learning_rate': 0.1, 'n_estimators': 200}
+Feature Importance (or Coefficients):
+Feature Manure_P_kg_ha: 0.8322271704673767
+Feature Ag_P_Erosion: 0.048186756670475006
+Feature Ag_P_Runoff: 0.03810898959636688
+Feature PFOR: 0.024576367810368538
+Feature Ag_Tile_SSF: 0.012837248854339123
+Feature PDEV: 0.011329269967973232
+Feature PWETL: 0.010149679146707058
+Feature P_Ag_Buffered: 0.009297635406255722
+Feature RNAT45: 0.004736372735351324
+Feature POP_2000: 0.003685161704197526
+Feature POP_2010: 0.002459998242557049
+Feature ACRES: 0.001825102954171598
+Feature PIUCN_IB: 0.00044309135410003364
+Feature PIUCN_IA: 0.00013695126108359545
